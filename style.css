@@ -80,7 +80,7 @@ font-weight: bold;
 	color: rgba(207, 7, 28, .8);
 	position: fixed;
 	top: 570px;
-	left:390px;
+	left:420px;
 }
 
 
@@ -91,7 +91,7 @@ font-weight: bold;
 	margin:0;
 	line-height: .1px;
 	text-align: right;
-	margin-left: 240px;
+	margin-left: 270px;
 	margin-top: -25px;
 	position: fixed;
 	
@@ -100,3 +100,4 @@ font-weight: bold;
 .small2{
 	padding-right: 6px;
 }
+
