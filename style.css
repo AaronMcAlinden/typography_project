@@ -1,0 +1,102 @@
+body {
+	background: #e6e3e5;
+	text-transform: uppercase;
+	height: 850px;
+	
+}
+
+
+section	{
+	max-width: 80%;
+	text-align:left;
+	margin: 0 auto;
+	position: absolute;
+	left: 50%;
+ transform: translateX(-50%);
+
+	
+}
+
+.container	{
+	position: static;
+	margin: 0 auto;
+	max-width: 80%;
+	
+}
+
+
+
+.sans	{
+	font-family: "acumin-pro-extra-condensed",sans-serif;
+font-style: normal;
+font-weight: 700;
+	position: absolute;
+	font-size: 76px;
+	z-index: 1;
+	color: rgba(207, 7, 28, .8);
+	letter-spacing: .250em;
+	line-height: 5px;
+	top:14px;
+	
+	
+}
+
+.serif	{
+	font-family: "bodoni-urw";
+	font-weight: normal;
+	position: static;
+	font-size: 72.5px;
+	z-index: 0;
+	margin-top: 120px;
+	line-height: 10px;
+	color: #fff;
+	text-shadow: 4px 2px 3px rgba(1, 5, 9, .4);
+	color: #e6e3e5;
+	letter-spacing: -4px;
+	
+	
+	
+}
+
+#aphy	{
+	margin-left: 2em;
+	
+}
+
+#is1{margin-left: 1.97em;}
+
+#where	{
+	margin-left: 1.3em;
+	
+}
+
+.slash	{
+	
+	font-family: "acumin-pro-extra-condensed",sans-serif;
+	font-style: normal;
+font-weight: bold;
+	
+	font-size: 70px;
+	color: rgba(207, 7, 28, .8);
+	position: fixed;
+	top: 570px;
+	left:390px;
+}
+
+
+
+.small	{
+	color: rgba(207, 7, 28, .8);
+	font-family: "acumin-pro-extra-condensed",sans-serif;
+	margin:0;
+	line-height: .1px;
+	text-align: right;
+	margin-left: 240px;
+	margin-top: -25px;
+	position: fixed;
+	
+}
+
+.small2{
+	padding-right: 6px;
+}
